@@ -1,0 +1,12 @@
+pl\jwojciechowski\App.class
+pl\jwojciechowski\validator\ValidatorDOM.class
+pl\jwojciechowski\validator\ValidatorSAX.class
+pl\jwojciechowski\pluginmanager\ValidatorSettings.class
+pl\jwojciechowski\parser\CustomDOMParser.class
+pl\jwojciechowski\validator\Validator.class
+pl\jwojciechowski\pluginmanager\Plugins.class
+pl\jwojciechowski\validator\ValidatorCustom.class
+pl\jwojciechowski\ValidatorApp.class
+pl\jwojciechowski\pluginmanager\PluginManager$1.class
+pl\jwojciechowski\pluginmanager\PluginManager.class
+pl\jwojciechowski\validator\ValidatorErrorHandler.class

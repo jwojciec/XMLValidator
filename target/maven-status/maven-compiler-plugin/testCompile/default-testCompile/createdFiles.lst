@@ -1,0 +1,5 @@
+pl\jwojciechowski\AppTest.class
+pl\jwojciechowski\validator\ValidatorCustomTest.class
+pl\jwojciechowski\validator\ValidatorSAXTest.class
+pl\jwojciechowski\parser\CustomDOMParserTest.class
+pl\jwojciechowski\validator\ValidatorDOMTest.class
